@@ -28,7 +28,7 @@ const Footer = ({ setSelectedPage }: Props) => {
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Contact Us</h4>
-          <p className="my-5">Lorem, ipsum tempest ricus.</p>
+          <p className="my-5">Ulica Velimira Škorpika 7/a, 22000, Šibenik</p>
           <p>(+333) 425 - 1678</p>
         </div>
       </div>
